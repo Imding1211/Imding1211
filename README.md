@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=[Imding1211]&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=Imding1211&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 <!--
 **Imding1211/Imding1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
